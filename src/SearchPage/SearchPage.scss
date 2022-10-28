@@ -1,0 +1,29 @@
+.searchPage{
+    width: 100%;
+    padding: 20px;
+    overflow-x: auto;
+    .searchPage-heading{
+        display: grid;
+        gap: 20px;
+
+        .heading-title{
+            font-weight: bolder;
+            font-size: 26px;
+        }
+        .subHeading-title{
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 100;
+        }
+    }
+}
+
+.searchPage::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .searchPage::-webkit-scrollbar-thumb {
+    background: rgba(79, 39, 191, 1);
+    opacity: 1;
+  }
+  

@@ -1,0 +1,40 @@
+.HomePage{
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    overflow-x: auto;
+
+     
+    .HomePage-heading{
+        display: grid;
+        gap: 20px;
+        font-weight: bolder;
+
+        .heading-title{
+            font-size: 26px;
+        }
+        .subHeading-title{
+            font-size: 20px;
+            font-style: normal;
+            font-weight: 100;
+        }
+
+   
+    }
+}
+
+
+
+
+
+.HomePage::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  .HomePage::-webkit-scrollbar-thumb {
+    background: rgba(79, 39, 191, 1);
+    opacity: 1;
+  }
+  
+
+

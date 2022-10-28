@@ -1,0 +1,33 @@
+.menu-itemList{
+    gap: 45px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 20px;
+    margin-top: 30px;
+ 
+
+    img {
+        height: 27px;
+    }
+.menu-item{
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    cursor: pointer;
+}
+    .line {
+        display: flex;
+        justify-content: flex-end;
+        width: 40%;
+   
+
+    }
+}
+
+:-webkit-any-link {
+    color: black;
+    cursor: pointer;
+    text-decoration: none;
+}
