@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/x-lab/static/css/main.5644e024.css",
-    "main.js": "/x-lab/static/js/main.f62b84ca.js",
+    "main.js": "/x-lab/static/js/main.0046ef2f.js",
     "static/media/setting.svg": "/x-lab/static/media/setting.5f34416c13daeeb8ee88249b200d9df9.svg",
     "static/media/sheet.svg": "/x-lab/static/media/sheet.76ca1b0ddb616659b4b7a4ad880082d8.svg",
     "static/media/finance.svg": "/x-lab/static/media/finance.2c816d683e839613161ea4c6673cd1bd.svg",
@@ -19,10 +19,10 @@
     "static/media/arrow.svg": "/x-lab/static/media/arrow.fe04bfe848e3ad61738b4d14a746797d.svg",
     "static/media/line.svg": "/x-lab/static/media/line.4ed61807260b15f10fbe58398329614d.svg",
     "main.5644e024.css.map": "/x-lab/static/css/main.5644e024.css.map",
-    "main.f62b84ca.js.map": "/x-lab/static/js/main.f62b84ca.js.map"
+    "main.0046ef2f.js.map": "/x-lab/static/js/main.0046ef2f.js.map"
   },
   "entrypoints": [
     "static/css/main.5644e024.css",
-    "static/js/main.f62b84ca.js"
+    "static/js/main.0046ef2f.js"
   ]
 }
