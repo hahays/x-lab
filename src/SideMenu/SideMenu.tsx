@@ -29,11 +29,11 @@ function SideMenu() {
         </span>
       </div>
       <div className="sideMenu-itemList">
-        <Link to="/">
-          <MenuItem source={HOME} name="Главная" url="/" />
+        <Link to="/x-lab/">
+          <MenuItem source={HOME} name="Главная" url="/x-lab/" />
         </Link>
-        <Link to="address">
-          <MenuItem source={SEARCH} name="Поиск адресов" url="/address" />
+        <Link to="x-lab/address">
+          <MenuItem source={SEARCH} name="Поиск адресов" url="/x-lab/address" />
         </Link>
         <MenuItem source={SHEET} name="Таблицы" />
         <MenuItem source={CALENDAR} name="Календарь" />

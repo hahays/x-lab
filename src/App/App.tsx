@@ -13,8 +13,8 @@ function App() {
       <div className="main-container">
         <SideMenu />
         <Routes>
-          <Route path="/" index element={<HomePage />} />
-          <Route path="address" element={<SearchPage />} />
+          <Route path="/x-lab/" index element={<HomePage />} />
+          <Route path="/x-lab/address" element={<SearchPage />} />
         </Routes>
       </div>
     </div>
