@@ -13,15 +13,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    .logo{
-        padding-right: 15px;
-        img {
-          height: 40px;
-        }
+    .logo {
+      padding-right: 15px;
+      img {
+        height: 40px;
+      }
     }
   }
-
-
 
   .header-rightSide {
     margin-right: 25px;
@@ -29,11 +27,11 @@
     justify-content: center;
     align-items: center;
 
-    .logo{
-        padding-right: 15px;
-        img {
-          height: 40px;
-        }
+    .logo {
+      padding-right: 15px;
+      img {
+        height: 40px;
+      }
     }
   }
 }
@@ -41,9 +39,5 @@
 @media only screen and (max-width: 430px) {
   .header {
     font-size: 15px;
-    .logo{
-
-    }
   }
- 
 }
